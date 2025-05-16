@@ -1,4 +1,6 @@
-import WorldFactory from "./factory/WorldFactory.js";
+import Spy from "./entity/unit/militaryUnit/spy.js";
 
-let world = WorldFactory.createWorld("SilentButDeadlyFartWorld");
-console.log(world);
+let spy = new Spy();
+console.log(spy);
+
+console.log(spy.getTimeToTrain(12));

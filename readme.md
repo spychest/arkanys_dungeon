@@ -35,3 +35,24 @@ To get an easy view of the different building, I grouped them by usage (producti
 - Barracks ✅
 - Laboratory ✅
 - Library ✅
+
+## Units
+
+### Military unit
+
+- Spy 🔨
+- Footy 🔨
+- Barbarian 🔨
+- Paladin 🔨
+- Rogue 🔨
+- Sorcerer 🔨
+- Warlock 🔨
+- Wizzard 🔨
+- Dragon 🔨
+
+### Commercial unit
+
+- Small Wagon ❌
+- Great Wagon ❌
+- Settler ❌
+- Blacksmith ❌

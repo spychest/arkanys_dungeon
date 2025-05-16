@@ -52,7 +52,7 @@ To get an easy view of the different building, I grouped them by usage (producti
 
 ### Commercial unit
 
-- Small Wagon ❌
-- Great Wagon ❌
-- Settler ❌
-- Blacksmith ❌
+- Small Wagon 🔨
+- Great Wagon 🔨
+- Settler 🔨
+- Blacksmith 🔨

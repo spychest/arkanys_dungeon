@@ -1,11 +1,11 @@
-import World from '../entity/world.js';
-import Continent from '../entity/continent.js';
-import Country from '../entity/country.js';
-import City from '../entity/city.js';
+import World from '../entity/world/World.js';
+import Continent from '../entity/world/Continent.js';
+import Country from '../entity/world/Country.js';
+import City from '../entity/world/City.js';
 
 const COUNTRY_CITIES_LIMIT = 15;
 
-export class WorldFactory {
+export default class WorldFactory {
     static createWorld(name, numberOfContinents = 5, numberOfCountriesByContinent = 20, worldSpeedFactor = 1) {
         const world = new World(name, numberOfContinents, numberOfCountriesByContinent, worldSpeedFactor);
         for (let i = 0; i < numberOfContinents; i++) {

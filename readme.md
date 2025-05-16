@@ -32,6 +32,6 @@ To get an easy view of the different building, I grouped them by usage (producti
 
 ### Military building
 
-- Barracks ❌
-- Laboratory ❌
-- Library ❌
+- Barracks ✅
+- Laboratory ✅
+- Library ✅
